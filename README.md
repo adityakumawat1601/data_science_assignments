@@ -1,2 +1,2 @@
 # data_science_assignments
-worked on datasets like black friday , apple stocks , clinical trail analysis
+worked on datasets like black friday , apple stocks , clinical trail analysis , missing migrants etc.
